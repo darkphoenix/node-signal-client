@@ -27,7 +27,7 @@
     "signal-desktop": "nr23730/signal-desktop#master",
     "underscore": "^1.9.1",
     "worker": "^0.4.0",
-    "ws": "^7.1.1",
+    "ws": "^3.3.1",
     "xhr2": "^0.2.0"
   }
 }
